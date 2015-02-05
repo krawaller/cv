@@ -11,7 +11,7 @@
 *    Address: Stävgatan 3E, 27152 Ystad, Sweden
 
 
-#### Academia
+#### Academic merits
 
 *    Teacher of mathematics and Swedish, 5 years @ [Halmstad university](http://www.hh.se)
 *    Web programmer, 3 years @ [Linnaeus university](http://lnu.se)
