@@ -7,6 +7,7 @@
 *    Name: David Waller
 *    Born: 1979-07-20
 *    Email: [david@krawaller.se](mailto:david@krawaller.se)
+*    Blog: [http://blog.krawaller.se](http://blog.krawaller.se)
 *    Address: Stävgatan 3E, 27152 Ystad, Sweden
 
 
