@@ -8,6 +8,8 @@
 *    Born: 1979-07-20
 *    Email: [david@krawaller.se](mailto:david@krawaller.se)
 *    Blog: [http://blog.krawaller.se](http://blog.krawaller.se)
+*    Skype: litendavid
+*    Twitter: [krawaller](https://twitter.com/krawaller) and [litenDavid](https://twitter.com/litendavid)
 *    Address: Stävgatan 3E, 27152 Ystad, Sweden
 
 
@@ -30,7 +32,7 @@
 Earlier backend skills have been all but replaced by a semi-religious embracement of the web stack. Focus used to be Backbone, now shifted to React. A selection of deeds:
 
 *    Creator of [Algebra Explorer](http://www.algebraexplorer.com) 2014
-*    Speaker (about CoffeeScript) at [Software Passion Summit](http://lanyrd.com/2012/software-passion-summit/) 2012
+*    Speaker (about CoffeeScript) at [Software Passion Summit](https://twitter.com/apnylle/status/182149430269575168) 2012
 *    Appcelerator [Titanium Certified Developer](https://training.appcelerator.com/assets/datasheet/tcd-certification-objectives.pdf) 2011
 *    Developer of [DBT Self help app](https://itunes.apple.com/se/app/dbt-self-help/id458300012?mt=8) 2011
 *    Creator of [Tristania's official band app](https://itunes.apple.com/se/app/tristania/id396749076?mt=8) 2010
