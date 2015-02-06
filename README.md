@@ -8,6 +8,7 @@
 *    Born: 1979-07-20
 *    Email: [david@krawaller.se](mailto:david@krawaller.se)
 *    Blog: [http://blog.krawaller.se](http://blog.krawaller.se)
+*    Github: [krawaller](http://github.com/krawaller)
 *    Skype: litendavid
 *    Twitter: [krawaller](https://twitter.com/krawaller) and [litenDavid](https://twitter.com/litendavid)
 *    Address: Stävgatan 3E, 27152 Ystad, Sweden
@@ -24,7 +25,6 @@
 
 *    Teacher of advanced JavaScript and RIA creation for Linnaeus University, 2010-present
 *    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) for the [Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007-present
-*    Sheep slaughterer at [Fjällalamb, Iceland](http://fjallalamb.is/), 2005-2007
 *    Teacher of mathematics and Swedish at Tjörns utbildningscenter, 2003-2005
 
 #### Technical merits
@@ -45,4 +45,4 @@ Earlier backend skills have been all but replaced by a semi-religious embracemen
 
 #### Also
 
-Singing, LEGO and black metal! And travel, but mainly as an excuse for [photo bombing](bomb.JPG).
+Singing, LEGO, board games and black metal! And travel, but mainly as an excuse for [photo bombing](bomb.JPG).
