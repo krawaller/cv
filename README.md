@@ -29,7 +29,7 @@
 
 #### Technical merits
 
-Earlier imperative backend skills have been all but replaced by a semi-religious embracement of functional programming on the web stack. Focus used to be Backbone, now shifted to React. A selection of deeds:
+Earlier OOP backend skills have been all but replaced by a semi-religious embracement of functional programming on the web stack. Focus used to be Backbone, now shifted to React. A selection of deeds:
 
 *    Creator of [Algebra Explorer](http://www.algebraexplorer.com) 2014
 *    Speaker (about CoffeeScript) at [Software Passion Summit](https://twitter.com/apnylle/status/182149430269575168) 2012
