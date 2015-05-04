@@ -25,6 +25,7 @@
 
 *    Teacher of advanced JavaScript and RIA creation for Linnaeus University, 2010-present
 *    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) for the [Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007-present
+*    Sheep slaughterer at [Fjällalamb](http://www.fjallalamb.is), 2005-2006
 *    Teacher of mathematics and Swedish at Tjörns utbildningscenter, 2003-2005
 
 #### Technical merits
