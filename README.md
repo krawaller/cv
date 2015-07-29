@@ -9,8 +9,9 @@
 *    Email: [david@krawaller.se](mailto:david@krawaller.se)
 *    Blog: [http://blog.krawaller.se](http://blog.krawaller.se)
 *    Github: [krawaller](http://github.com/krawaller)
+*    Mobile: +46708293094
 *    Skype: litendavid
-*    Twitter: [krawaller](https://twitter.com/krawaller) and [litenDavid](https://twitter.com/litendavid)
+*    Twitter: [krawaller](https://twitter.com/krawaller)
 *    Address: Stävgatan 3E, 27152 Ystad, Sweden
 
 
@@ -23,27 +24,29 @@
 
 #### Work merits
 
-*    Teacher of advanced JavaScript and RIA creation for Linnaeus University, 2010-present
-*    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) for the [Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007-present
-*    Sheep slaughterer at [Fjällalamb](http://www.fjallalamb.is), 2005-2006
-*    Teacher of mathematics and Swedish at Tjörns utbildningscenter, 2003-2005
+*    Teacher of [advanced JavaScript and RIA creation](http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/) for [Linnaeus University](http://lnu.se/), 2010&mdash;present
+*    Self-employed frontend developer, 2010&mdash;present
+*    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) for the [Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007&mdash;present
+*    Sheep slaughterer at [Fjällalamb](http://www.fjallalamb.is), 2005&mdash;2006
+*    Teacher of mathematics and Swedish at Tjörns utbildningscenter, 2003&mdash;2005
 
 #### Technical merits
 
-Earlier OOP backend skills have been all but replaced by a semi-religious embracement of functional programming on the web stack. Focus used to be Backbone, now shifted to React. A selection of deeds:
+Earlier OOP backend skills have been all but replaced by a semi-religious embracing of functional programming on the web stack. Focus used to be [Backbone](http://backbonejs.org/) &amp; [Underscore](http://underscorejs.org/), now shifted to [React](http://facebook.github.io/react/) &amp; [ImmutableJS](https://facebook.github.io/immutable-js/). Big on unit testing and code organisation. A selection of deeds:
 
+*    Major [Reflux contributor](https://github.com/reflux/refluxjs/commits?author=krawaller) 2015
 *    Creator of [Algebra Explorer](http://www.algebraexplorer.com) 2014
-*    Speaker (about CoffeeScript) at [Software Passion Summit](https://twitter.com/apnylle/status/182149430269575168) 2012
-*    Appcelerator [Titanium Certified Developer](https://training.appcelerator.com/assets/datasheet/tcd-certification-objectives.pdf) 2011
+*    [Backbone contributor](https://github.com/jashkenas/backbone/pull/1587) 2013
+*    Speaker about [CoffeeScript](http://coffeescript.org/) at [Software Passion Summit](https://twitter.com/apnylle/status/182149430269575168) 2012
 *    Developer of [DBT Self help app](https://itunes.apple.com/se/app/dbt-self-help/id458300012?mt=8) 2011
-*    Creator of [Tristania's official band app](https://itunes.apple.com/se/app/tristania/id396749076?mt=8) 2010
+*    Creator of [Tristania](http://www.tristania.com/)'s [official band app](https://itunes.apple.com/se/app/tristania/id396749076?mt=8) 2010
 
 #### References
 
 *    Principal at the Swedish Prison and Probation Service; [Lena Broo](mailto:lena.broo@kriminalvarden.se)
-*    Head of the Web programmer programme at Linnaeus University; [Johan Leitet](https://www.linkedin.com/in/leitet)
+*    Head of the Web programmer programme at Linnaeus University; [Johan Leitet](mailto:johan.leitet@lnu.se)
 *    [Doug Crockford](http://crockford.com) said my CoffeeScript talk was excellent and that he agreed with everything I said. Merit or not...
 
 #### Also
 
-Singing, LEGO, board games and black metal! And travel, but mainly as an excuse for [photo bombing](bomb.JPG).
+Singing, board games, LEGO and black metal! And travel, but mainly as an excuse for [photo bombing](https://github.com/krawaller/cv/blob/master/bomb.JPG).
