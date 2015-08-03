@@ -6,6 +6,7 @@
 
 *    Name: David Waller
 *    Born: 1979-07-20
+*    Nationality: Swedish &amp; English
 *    Email: [david@krawaller.se](mailto:david@krawaller.se)
 *    Blog: [http://blog.krawaller.se](http://blog.krawaller.se)
 *    Github: [krawaller](http://github.com/krawaller)
@@ -32,7 +33,7 @@
 
 #### Technical merits
 
-Earlier OOP backend skills have been all but replaced by a semi-religious embracing of functional programming on the web stack. Focus used to be [Backbone](http://backbonejs.org/) &amp; [Underscore](http://underscorejs.org/), now shifted to [React](http://facebook.github.io/react/) &amp; [ImmutableJS](https://facebook.github.io/immutable-js/). Big on unit testing and code organisation. A selection of deeds:
+Earlier OOP backend skills have been replaced by a semi-religious embracing of functional programming on the web stack. Focus used to be [Backbone](http://backbonejs.org/) &amp; [Underscore](http://underscorejs.org/), now shifted to [React](http://facebook.github.io/react/) &amp; [ImmutableJS](https://facebook.github.io/immutable-js/). Big on unit testing and code organisation. A selection of deeds:
 
 *    Major [Reflux contributor](https://github.com/reflux/refluxjs/commits?author=krawaller) 2015
 *    Creator of [Algebra Explorer](http://www.algebraexplorer.com) 2014
