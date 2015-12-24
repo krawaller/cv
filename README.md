@@ -1,12 +1,12 @@
 ### Curriculum Vitae
 
-![Me!](me.jpg)
+![](me.jpg)
 
 #### Personal data
 
 *    Name: David Waller
 *    Born: 1979-07-20
-*    Nationality: Swedish &amp; English
+*    Nationality: Swedish &amp; British
 *    Email: [david@krawaller.se](mailto:david@krawaller.se)
 *    Blog: [http://blog.krawaller.se](http://blog.krawaller.se)
 *    Github: [krawaller](http://github.com/krawaller)
@@ -19,7 +19,7 @@
 #### Academic merits
 
 *    Teacher of mathematics and Swedish, 5 years @ [Halmstad university](http://www.hh.se)
-*    Web programmer, 3 years @ [Linnaeus university](http://lnu.se)
+*    Web programmer, 2+ years @ [Linnaeus university](http://lnu.se)
 *    Highest grade on the [Swedish SAT](http://en.wikipedia.org/wiki/Swedish_Scholastic_Aptitude_Test)
 
 
