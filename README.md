@@ -27,7 +27,7 @@
 
 *    Teacher of [advanced JavaScript and RIA creation](http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/) for [Linnaeus University](http://lnu.se/), 2010&mdash;present
 *    Self-employed frontend developer, 2010&mdash;present
-*    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) for the [Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007&mdash;present
+*    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) for the [Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007&mdash;2015
 *    Sheep slaughterer at [Fjällalamb](http://www.fjallalamb.is), 2005&mdash;2006
 *    Teacher of mathematics and Swedish at Tjörns utbildningscenter, 2003&mdash;2005
 
