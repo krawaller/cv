@@ -34,7 +34,7 @@
 
 #### Technical merits
 
-Earlier OOP backend skills have been replaced by a semi-religious embracing of functional programming on the web stack. Focus used to be [Backbone](http://backbonejs.org/) &amp; [Underscore](http://underscorejs.org/), now shifted to [React](http://facebook.github.io/react/), [Redux](http://redux.js.org/) &amp; [Ramda](http://ramdajs.com/). Big on unit testing and code organisation. A selection of deeds:
+Earlier OOP backend skills have been replaced by a semi-religious embracing of functional and reactive programming on the web stack. Main tools are [React](http://facebook.github.io/react/), [Redux](http://redux.js.org/) &amp; [TypeScript](typescriptlang.org). Big on code organisation and unit testing. A selection of deeds:
 
 *    Gave speech on [CycleJS](https://cycle.js.org/) @ [Devsum](http://www.addskills.se/kunskapsbanken/tidigare-webinars/devsum16-david-waller--down-the-functional-reactive-rabbit-hole-exploring-cycle.js) 2016
 *    Major [Reflux contributor](https://github.com/reflux/refluxjs/commits?author=krawaller) 2015
