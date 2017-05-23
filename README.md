@@ -36,11 +36,11 @@
 
 Earlier OOP backend skills have been replaced by a semi-religious embracing of functional programming on the web stack. Focus used to be [Backbone](http://backbonejs.org/) &amp; [Underscore](http://underscorejs.org/), now shifted to [React](http://facebook.github.io/react/), [Redux](http://redux.js.org/) &amp; [Ramda](http://ramdajs.com/). Big on unit testing and code organisation. A selection of deeds:
 
-*    Speaker about [CycleJS](https://cycle.js.org/) @ [Devsum](http://www.addskills.se/kunskapsbanken/tidigare-webinars/devsum16-david-waller--down-the-functional-reactive-rabbit-hole-exploring-cycle.js) 2016
+*    Gave speech on [CycleJS](https://cycle.js.org/) @ [Devsum](http://www.addskills.se/kunskapsbanken/tidigare-webinars/devsum16-david-waller--down-the-functional-reactive-rabbit-hole-exploring-cycle.js) 2016
 *    Major [Reflux contributor](https://github.com/reflux/refluxjs/commits?author=krawaller) 2015
 *    Creator of [Algebra Explorer](http://www.algebraexplorer.com) 2014
 *    [Backbone contributor](https://github.com/jashkenas/backbone/pull/1587) 2013
-*    Speaker about [CoffeeScript](http://coffeescript.org/) @ [Software Passion Summit](https://twitter.com/apnylle/status/182149430269575168) 2012
+*    Gave speech on [CoffeeScript](http://coffeescript.org/) @ [Software Passion Summit](https://twitter.com/apnylle/status/182149430269575168) 2012
 *    Developer of [DBT Self help app](https://itunes.apple.com/se/app/dbt-self-help/id458300012?mt=8) 2011
 *    Creator of [Tristania](http://www.tristania.com/)'s [official band app](https://itunes.apple.com/se/app/tristania/id396749076?mt=8) 2010
 
