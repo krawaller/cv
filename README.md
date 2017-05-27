@@ -6,7 +6,7 @@
 
 *    Name: David Waller
 *    Born: 1979-07-20
-*    Nationality: Swedish &amp; British
+*    Nationality: Swedish
 *    Email: [david@krawaller.se](mailto:david@krawaller.se)
 *    Blog: [http://blog.krawaller.se](http://blog.krawaller.se)
 *    Github: [krawaller](http://github.com/krawaller)
@@ -25,10 +25,10 @@
 
 #### Work merits
 
-*    JavaScript Developer and teacher at [Edument](https://edument.se/), 2016&mdash;present
-*    Teacher of [advanced JavaScript and RIA creation](http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/) for [Linnaeus University](http://lnu.se/), 2010&mdash;2016
+*    JavaScript Developer and teacher @ [Edument](https://edument.se/), 2016&mdash;present
+*    Teacher of [advanced JavaScript and RIA creation](http://coursepress.lnu.se/kurs/ria-utveckling-med-javascript/) @ [Linnaeus University](http://lnu.se/), 2010&mdash;2016
 *    Self-employed frontend developer, 2010&mdash;present
-*    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) for the [Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007&mdash;2015
+*    Teacher of mathematics, Swedish and programming (with a generous blend of IT development) @ [The Swedish Prison and Probation Service](http://www.kriminalvarden.se/swedish-prison-and-probation-service), 2007&mdash;2015
 *    Sheep slaughterer at [Fjällalamb](http://www.fjallalamb.is), 2005&mdash;2006
 *    Teacher of mathematics and Swedish at Tjörns utbildningscenter, 2003&mdash;2005
 
@@ -46,11 +46,11 @@ Earlier OOP backend skills have been replaced by a semi-religious embracing of f
 
 #### References
 
-*    Edument Chief Learning Officer [Björn Lindell](mailto:bjorn.lindell@edument.se)
-*    Principal at the Swedish Prison and Probation Service; [Lena Broo](mailto:lena.broo@kriminalvarden.se)
-*    Head of the Web programmer programme at Linnaeus University; [Johan Leitet](mailto:johan.leitet@lnu.se)
+*    [Björn Lindell](mailto:bjorn.lindell@edument.se), Chief Learning Officer @ Edument
+*    [Lena Broo](mailto:lena.broo@kriminalvarden.se), Principal @ the Swedish Prison and Probation Service
+*    [Johan Leitet](mailto:johan.leitet@lnu.se), Head of the Web programmer programme @ Linnaeus University
 *    [Doug Crockford](http://crockford.com) said my CoffeeScript talk was excellent and that he agreed with everything I said. Merit or not...
 
 #### Also
 
-Singing, board games, LEGO and black metal! And travel, but mainly as an excuse for [photo bombing](https://github.com/krawaller/cv/blob/master/bomb.JPG).
+Singing, board games, LEGO and black metal!
